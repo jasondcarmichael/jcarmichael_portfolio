@@ -6,18 +6,18 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <div className="App-header">
         <Header />
-      </header>
+      </div>
 
-      <main className="App-main">
-        <Main></Main>
+      <div className="App-main">
+        <Main />
 
-      </main>
+      </div>
 
-      <footer className="App-footer">
+      <div className="App-footer">
         <Footer />
-      </footer>
+      </div>
     </div>
   );
 }
