@@ -30,8 +30,15 @@ export default function Portfolio () {
                 <div className="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                     <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Furniture Depot - Group Project</h2>
                     <h4 className="font-semibold">OVERVIEW</h4>
-                    <p className="mb-4">Furniture Depot is an ecommerce full-stack PERN app. The app integrates user authentication with JWT web tokens. On the server side, Sequelize is used with Express as middleware for the SQL relational database. Users can visit the site to view products. Once logged-in, users can write product reviews for specified items. Registered users have full CRUD capability on reviews they write.
- </p>
+                    <p className="mb-4">Furniture Depot is an ecommerce full-stack PERN app. The app integrates user authentication with JWT web tokens. On the server side, Sequelize is used with Express as middleware for the SQL relational database. Users can visit the site to view products. Once logged-in, users can write product reviews for specified items. Registered users have full CRUD capability on reviews they write.</p>
+                    <div className="mb-4">
+                        <h4 className="font-semibold">ROLE</h4>
+                        <p>This was a group project, and I conributed the following:</p>
+                            <li>Project Planning</li>
+                            <li>Backend: models, associations, routes, controllers</li>
+                            <li>CSS: overall site styling</li>
+                            <li>Troubleshooting frontend CRUD functionality</li>
+                    </div>
                     <div className="mb-4">
                         <ul className="font-semibold">HIGHLIGHTS</ul>
                         <li>GitHub - Two repos for version control working with branches and merges</li>
