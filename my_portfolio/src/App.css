@@ -1,5 +1,15 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+html {
+  background-color: gray;
 }
 
 /* .App-header {
