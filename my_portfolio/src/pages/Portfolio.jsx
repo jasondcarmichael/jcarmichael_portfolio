@@ -19,7 +19,7 @@ export default function Portfolio () {
                     </div>
                     <div>
                     <h4 className="font-semibold">REPO</h4>
-                    <a href="https://github.com/jasondcarmichael/ephemera_daily_haiku"  >Ephemera</a>
+                    <a href="https://github.com/jasondcarmichael/ephemera_daily_haiku"   className="lg:hover:text-primary-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700">Ephemera</a>
                     </div>
                 </div>  
             </div>
